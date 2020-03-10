@@ -5,7 +5,7 @@
         <link href='https://fonts.google.com/specimen/Black+Han+Sans' rel='stylesheet' type='text/css'>
         <style>
             body {
-                font-family: 'Black Han Sans', monospace;
+                font-family: serif;
                 background-color:red;
             }
             p {
